@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bnns-cra/static/css/main.34de6062.chunk.css",
+    "main.js": "/bnns-cra/static/js/main.82bbceda.chunk.js",
+    "main.js.map": "/bnns-cra/static/js/main.82bbceda.chunk.js.map",
+    "runtime~main.js": "/bnns-cra/static/js/runtime~main.75e29f15.js",
+    "runtime~main.js.map": "/bnns-cra/static/js/runtime~main.75e29f15.js.map",
+    "static/js/2.6e828243.chunk.js": "/bnns-cra/static/js/2.6e828243.chunk.js",
+    "static/js/2.6e828243.chunk.js.map": "/bnns-cra/static/js/2.6e828243.chunk.js.map",
+    "index.html": "/bnns-cra/index.html",
+    "precache-manifest.fdc0789155710c273ce86f2abbba7b96.js": "/bnns-cra/precache-manifest.fdc0789155710c273ce86f2abbba7b96.js",
+    "service-worker.js": "/bnns-cra/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/bnns-cra/static/css/main.34de6062.chunk.css.map",
+    "static/media/loading.gif": "/bnns-cra/static/media/loading.2eea046d.gif"
+  }
+}
